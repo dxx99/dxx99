@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maofriend.com/blog/</loc>
+    <loc>https://maofriend.com/posts/first/</loc>
+    <lastmod>2022-04-08T18:02:18+08:00</lastmod>
   </url><url>
     <loc>https://maofriend.com/</loc>
+    <lastmod>2022-04-08T18:02:18+08:00</lastmod>
+  </url><url>
+    <loc>https://maofriend.com/posts/</loc>
+    <lastmod>2022-04-08T18:02:18+08:00</lastmod>
+  </url><url>
+    <loc>https://maofriend.com/blog/</loc>
   </url><url>
     <loc>https://maofriend.com/series/</loc>
   </url><url>
