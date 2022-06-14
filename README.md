@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dxx99&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dxx99&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dxx99&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dxx99&theme=github)
